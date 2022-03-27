@@ -11,6 +11,7 @@
   inputs.src-nimfp-v0_4_0.ref   = "refs/tags/v0.4.0";
   inputs.src-nimfp-v0_4_0.owner = "vegansk";
   inputs.src-nimfp-v0_4_0.repo  = "nimfp";
+  inputs.src-nimfp-v0_4_0.dir   = "";
   inputs.src-nimfp-v0_4_0.type  = "github";
   
   inputs."nimboost".owner = "nim-nix-pkgs";

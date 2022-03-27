@@ -11,6 +11,7 @@
   inputs.src-nimfp-v0_0_4.ref   = "refs/tags/v0.0.4";
   inputs.src-nimfp-v0_0_4.owner = "vegansk";
   inputs.src-nimfp-v0_0_4.repo  = "nimfp";
+  inputs.src-nimfp-v0_0_4.dir   = "";
   inputs.src-nimfp-v0_0_4.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
