@@ -11,7 +11,6 @@
   inputs.src-nimfp-master.ref   = "refs/heads/master";
   inputs.src-nimfp-master.owner = "vegansk";
   inputs.src-nimfp-master.repo  = "nimfp";
-  inputs.src-nimfp-master.dir   = "";
   inputs.src-nimfp-master.type  = "github";
   
   inputs."nimboost".owner = "nim-nix-pkgs";
